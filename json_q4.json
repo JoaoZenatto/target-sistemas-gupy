@@ -1,0 +1,24 @@
+{
+   "estados": [
+      {
+      "sigla": "SP",
+      "faturamento": "R$67.836,43"
+      },
+      {
+      "sigla": "RJ",
+      "faturamento": "R$36.678,66"   
+      },
+      {
+      "sigla": "MG",
+      "faturamento": "R$29.229,88"
+      },
+      {
+      "sigla": "ES",
+      "faturamento": "R$27.165,48"
+      },
+      {
+      "sigla": "Outros",
+      "faturamento": "R$19.849,53"
+      }
+   ]
+}
