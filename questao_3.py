@@ -43,10 +43,10 @@ for i in range(len(valores)):
    if (valores[i] > media):
       count += 1
 
-maior2 = "{:.2f}".format(maior)
-menor2 = "{:.2f}".format(menor)
+maior = "{:.2f}".format(maior)
+menor = "{:.2f}".format(menor)
 
-print (f"Menor Faturamento do mês: R$:{menor2}")
-print (f"Maior Faturamento do mês: R$:{maior2}")
+print (f"Menor Faturamento do mês: R$:{menor}")
+print (f"Maior Faturamento do mês: R$:{maior}")
 print (f"Em {count} dias o faturamento foi maior que a media")
 
